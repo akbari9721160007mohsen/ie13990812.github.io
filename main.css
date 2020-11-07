@@ -49,10 +49,10 @@ body {
 }
 .article-box {
     flex-shrink: 0;
-  margin: 25px;
-  width: 400px;
-  border: 2px solid rgb(211, 211, 211);
-  border-radius: 15px;
+    margin: 25px;
+    width: 340px;
+    border: 2px solid rgb(211, 211, 211);
+    border-radius: 15px;
 }
 .article-box:hover {
   border: 2px solid rgb(255, 238, 238);
